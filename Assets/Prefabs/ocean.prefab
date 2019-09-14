@@ -93,6 +93,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8ae038acb69c92d4694fe9d1ca7e4289, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  verticalSpeed: 0.1
+  verticalSpeed: 0.05
   resetPosition: 19.2
   checkPosition: -9.6
